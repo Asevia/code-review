@@ -2,6 +2,13 @@
 
 A Node.js checkout system built with TypeScript following Domain-Driven Design (DDD) and Hexagonal Architecture principles.
 
+## Interview Tracks
+
+- **Backend review**: the checkout system in [`src/`](./src)
+- **Frontend review**: a separate React/Next-style exercise in [`frontend/README.md`](./frontend/README.md)
+
+The frontend folder is intentionally lightweight and can be used as a PR-style review exercise without running the app.
+
 ## Features
 
 - **Stock Reservation**: 15-minute automatic lock on items during checkout
